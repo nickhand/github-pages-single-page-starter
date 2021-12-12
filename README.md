@@ -2,7 +2,7 @@
 
 A template for including data visualizations in a Jekyll-powered, single-page blog with Github Pages.
 
-[DEMO](https://musa-550-fall-2021.github.io/github-pages-single-page-starter/)
+[DEMO](https:/nickhand.github.io/github-pages-single-page-starter/)
 
 The template uses the Minimal Jekyll theme: more details on this theme can be found [here](https://github.com/pages-themes/minimal).
 
